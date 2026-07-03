@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-<rect width="512" height="512" rx="96" fill="#0b1612"/>
-<circle cx="256" cy="256" r="190" fill="none" stroke="#d6b25e" stroke-width="22"/>
-<path d="M150 310 L220 240 L270 290 L370 175" fill="none" stroke="#d6b25e" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M334 175 H370 V211" fill="none" stroke="#d6b25e" stroke-width="28" stroke-linecap="round"/>
-<text x="256" y="390" text-anchor="middle" font-family="Arial" font-weight="900" font-size="62" fill="#f6f0d8">B/S</text>
-</svg>
